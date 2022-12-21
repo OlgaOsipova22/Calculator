@@ -1,4 +1,4 @@
-# Calculator-windowsforms
+# Лабораторная работа №1 "Калькулятор"
 
 <img src = "https://raw.githubusercontent.com/Zusith/Calculator-windowsforms/master/Cal.png" alt = "https://raw.githubusercontent.com/Zusith/Calculator-windowsforms/master/Cal.png">
 Simple calculator windows forms.
